@@ -2543,15 +2543,15 @@
 		}
 
 	#footer .copyright {
-		color: rgba(255, 255, 255, 0.4);
-		font-size: 0.8em;
+		color: rgba(255,255,255,0.95);
+		font-size: 0.4em;
 		list-style: none;
 		margin: 1em 0 0 0;
 		padding: 0;
 	}
 
 		#footer .copyright li {
-			border-left: solid 1px rgba(255, 255, 255, 0.25);
+			border-left: solid 1px rgba(255, 255, 255, 0.95);
 			display: inline-block;
 			line-height: 1em;
 			margin-left: 0.75em;
